@@ -39,7 +39,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/CatCoolKit/CatCoolKit/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+  <img src="https://private-user-images.githubusercontent.com/85281544/284971938-a65ececb-7042-4a69-b9a6-71381c48b003.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA5NDc5ODIsIm5iZiI6MTcyMDk0NzY4MiwicGF0aCI6Ii84NTI4MTU0NC8yODQ5NzE5MzgtYTY1ZWNlY2ItNzA0Mi00YTY5LWI5YTYtNzEzODFjNDhiMDAzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE0VDA5MDEyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4N2MyMDNkODk2MjExZWRhN2E2NTQ5ZDE5Njk1MzQ4MDkzOTk0N2EzYjA3ZGYzNjFiZjRmOTQwNWVmMjE1MTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.eE_tL9YahwapS87EcDiyPHK-U_tROewwgw5i-mkACtI" alt="giphy" />
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
