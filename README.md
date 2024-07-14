@@ -12,7 +12,7 @@
 
 🌍 I'm based in Vietnamese
 
-🔭 I’m currently working on **a chat app**
+🔭 I’m currently working on **...**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
