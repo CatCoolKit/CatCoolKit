@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://res.cloudinary.com/dxqhlxdun/image/upload/v1720947043/images/kbqjepomsbovpujo9i4m.jpg"> </div>
+<!-- <div align="center"> <img src="https://res.cloudinary.com/dxqhlxdun/image/upload/v1720947043/images/kbqjepomsbovpujo9i4m.jpg"> </div> -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manh+Cuong!;" />
